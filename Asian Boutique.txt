@@ -1,0 +1,43 @@
+<!Doctype html>
+<html lang="en">
+    <tagname>
+        <body>
+            <p>
+                p{text-align:center;
+                    background-color:lightblue; 
+                }
+                <strong>
+                    <section>
+                        <h1>
+                            h1{color:blue;
+                            }
+                            h1{font-family:"Arial Bold",Arial,sans-serif;
+                        }
+                        strong{text-transform:lowerase;
+                        }
+                            <title>
+                                <style>
+                                    p{text-align:center;}
+                                </style>
+                            </title>
+                            <form>
+                                <input type="text">
+                                <input type="checkbox">
+                                <input type="Password">
+                                <input type="Suggestion">
+                                <input type="submit">
+                                <select>
+                                    <option value="option1">1</option>
+                                    <option value="option2">2</option>
+                                    <option value="option3">3</option>
+                                    <option value="option4">4</option>
+                                    <option value="option5">5</option>
+                                </select>
+                            </form>
+                        </h1>
+                    </section>
+                </strong>
+            </p>
+        </body>
+    </tagname>
+</html>

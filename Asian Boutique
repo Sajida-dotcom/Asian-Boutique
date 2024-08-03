@@ -1,0 +1,32 @@
+<!Doctype html>
+<html>
+    <tagname>
+        <body>
+            <p>
+                p{text-align:center;
+                    background-color:lightblue; 
+                }
+                <strong>
+                    <section>
+                        <h1>
+                            <form>
+                                <input type="text">
+                                <input type="checkbox">
+                                <input type="Password">
+                                <input type="Suggestion">
+                                <input type="submit">
+                                <select>
+                                    <option value="option1">1</option>
+                                    <option value="option2">2</option>
+                                    <option value="option3">3</option>
+                                    <option value="option4">4</option>
+                                    <option value="option5">5</option>
+                                </select>
+                            </form>
+                        </h1>
+                    </section>
+                </strong>
+            </p>
+        </body>
+    </tagname>
+</html>
